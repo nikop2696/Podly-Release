@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.2.0",
   "minRequiredVersion": "1.0.0",
   "forceUpdate": false,
   "releaseNotes": "• Nuova Schermata Impostazioni\n• Filtro per escludere gli Shorts\n• Risolto blocco audio in background",
